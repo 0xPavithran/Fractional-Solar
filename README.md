@@ -16,6 +16,7 @@ Peer-to-Peer Trading: A decentralized marketplace enables users to buy, sell, or
 This system encourages efficient energy use, democratizes access to renewable energy investments, and promotes microgrids and local energy markets.
 
 Key Features:
+
 NFT Representation of Energy: Producers convert their energy production capacity into NFTs that represent a specific quantity of renewable energy (e.g., 100 kWh).
 
 Fractional Ownership: Investors can purchase fractional shares of renewable energy projects, allowing them to support clean energy production at different scales.
