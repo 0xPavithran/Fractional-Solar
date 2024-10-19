@@ -8,8 +8,11 @@ The Fractional Solar DApp is a decentralized platform designed for solar farm ow
 The platform allows solar farm owners to:
 
 +Mint fractionalized NFTs representing a share of their solar farm.
+
 +Manage the transfer of fractional ownership between users.
+
 +Provide a transparent way to track and trade fractional solar energy ownership.
+
 +This decentralized application is built on the Etherlink testnet and governed by smart contracts that ensure transparency and automation in the issuance, ownership, and transfer of these solar energy NFTs.
 
 Problem Statement:
