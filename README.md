@@ -67,3 +67,47 @@ Watch the [live demo on Vimeo](https://vimeo.com/1021342143#t=0).
 Watch the [live demo on YouTube](https://youtu.be/qRMcwQ4q_Es).
 
 
+
+## Steps to Test the Fractional Solar DApp
+
+To run the DApp locally and test its functionality, follow the steps below:
+
+1. Clone the Repository
+   
+   Clone this repository to your local machine:
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Deploy the Smart Contract
+
+   - Deploy the `SolarRegistration.sol` contract on the Etherlink Testnet or Sepolia Testnet.
+   - After successful deployment, copy the contract address for the next step.
+
+3. Update Contract Address
+
+   - Open the `UTILS/Constant.tsx` file in your project directory.
+   - Replace the existing contract address with the one from your deployment.
+   - Similarly, update the contract address in the `Components/HOME.tsx` file.
+
+4. Install Dependencies
+
+   Run the following command to install all necessary dependencies:
+   ```bash
+   npm install
+   ```
+
+5. Start the Development Server
+
+   To run the DApp locally, use the following command:
+   ```bash
+   npm run dev
+   ```
+
+6. Access the DApp
+
+   Open your browser and navigate to `http://localhost:3000` to access the DApp.
+
+
+
+
