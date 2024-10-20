@@ -58,3 +58,10 @@ The core functionality of the Fractional Solar DApp is powered by the SolarRegis
 +Ownership Transfer: Users can transfer fractional ownership to other users through a secure function that updates both the sender's and recipient's ownership records.
 
 +Burning Ownership: Owners can burn or revoke fractional ownership shares, updating the overall ownership structure of the NFT.
+
+## Live Demo
+
+[![Fractional Solar DApp Demo](https://i.vimeocdn.com/video/1021342143_640.jpg)](https://vimeo.com/1021342143#t=0 "Fractional Solar DApp Demo")
+
+> Click the image above to watch the live demo of the Fractional Solar DApp on Vimeo.
+
