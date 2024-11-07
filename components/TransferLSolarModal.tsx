@@ -43,7 +43,7 @@ const TransferSolarModal: React.FC<TransferSolarModalProps> = ({ onClose, onTran
           <FaTimes />
         </button>
         {/* Content */}
-        <h2 className="text-xl font-bold mb-2">Transfer Solar</h2>
+        <h2 className="text-xl font-bold mb-2">Sell Solar</h2>
         <div className="mb-4">
           <label htmlFor="toAddress" className="block text-gray-700 text-sm font-bold mb-2">
             To Address:

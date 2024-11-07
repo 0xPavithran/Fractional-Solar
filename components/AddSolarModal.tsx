@@ -71,7 +71,7 @@ const AddSolarModal: React.FC<AddSolarModalProps> = ({
           <FaTimes />
         </button>
         {/* Content */}
-        <h2 className="text-xl font-bold mb-2">Add Solar</h2>
+        <h2 className="text-xl font-bold mb-2">Mint Solar</h2>
         {step === 1 && (
           <div>
             <div className="mb-4">

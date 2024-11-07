@@ -132,7 +132,7 @@ const Home: React.FC<{ address: string }> = ({ address }) => {
   <nav className="flex justify-between items-center p-4">
     <div>
       <p className="text-xl text-white" style={{ fontWeight: 'bold' }}>
-        SolarRegistration
+        FractionalSolar
       </p>
     </div>
     <div className="hidden md:block"> {/* Hide on small screens */}
@@ -147,7 +147,7 @@ const Home: React.FC<{ address: string }> = ({ address }) => {
           onClick={handleAddSolar}
         >
           <FaPlus className="mr-2" />
-          Add Solar
+          Mint Solar
         </button>
       )}
     </div>
@@ -161,7 +161,7 @@ const Home: React.FC<{ address: string }> = ({ address }) => {
       onClick={handleAddSolar}
     >
       <FaPlus className="mr-2" />
-      Add Solar
+      Mint Solar
     </button>
   )}
 </div>
@@ -169,11 +169,11 @@ const Home: React.FC<{ address: string }> = ({ address }) => {
 
       {loading ? (
         <p className="text-center" style={{ fontWeight: 'bold' }}>
-          Loading Solars...
+          Loading Solars NFTs...
         </p>
       ) : Solars.length === 0 ? (
         <p className="text-center " style={{ fontWeight: 'bold' }}>
-          No Solars found.
+          No Solar NFTs found.
         </p>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 p-4">

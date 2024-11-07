@@ -22,7 +22,7 @@ contract SolarRegistration is ERC721Enumerable {
     mapping(uint256 => SolarToken) public _SolarTokens;
     mapping(address => FractionalOwnership[]) public _fractionalOwnerships;
 
-    constructor() ERC721("FractionalSolarRegistration", "FLR") {
+    constructor() ERC721("FractionalSolarRegistration", "FSR") {
         owner = msg.sender;
     }
 

@@ -26,7 +26,7 @@ const MetamaskConnect: React.FC<{ onConnect: (web3: Web3) => void }> = ({ onConn
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <div className="w-auto max-w-md p-6 rounded-lg shadow-[0_0_20px_theme('colors.purple.700')] flex flex-col items-center justify-center"> 
-        <p className="text-2xl text-white font-bold mb-6">Welcome to SolarRegistration</p>
+        <p className="text-2xl text-white font-bold mb-6">Welcome to FractionalSolar</p>
         <div className="mb-6">
         <button
   className={`bg-purple-700 text-white px-8 py-3 rounded-full hover:bg-purple-900 focus:outline-none focus:shadow-outline-purple`}
