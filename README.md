@@ -2,7 +2,7 @@
 
 ---
 
-## Fractional Solar DApp
+## FractionalSolar DApp
 
 Overview
 The Fractional Solar DApp is a decentralized platform designed for solar farm owners to tokenize and register their solar energy generation capacity as fractionalized NFTs. These NFTs represent ownership shares in the solar energy produced by a farm. Investors can purchase fractional shares of the solar NFTs, creating a transparent and decentralized market for renewable energy investment.
