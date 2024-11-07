@@ -12,7 +12,7 @@ The platform allows solar farm owners to:
 - Manage the transfer of fractional ownership between users.
 - Provide a transparent way to track and trade fractional solar energy ownership.
 
-This decentralized application is built on the **Etherlink testnet** and governed by smart contracts that ensure transparency and automation in the issuance, ownership, and transfer of these solar energy NFTs.
+This decentralized application is built on the **Arbitrum Sepolia testnet** and governed by smart contracts that ensure transparency and automation in the issuance, ownership, and transfer of these solar energy NFTs.
 
 ---
 
@@ -35,7 +35,7 @@ The platform automates and governs all processes through smart contracts:
 ---
 
 ## Current Status
-The Fractional Solar DApp has been deployed on the **Etherlink testnet**, and the following features have been implemented:
+The Fractional Solar DApp has been deployed on the **Arbitrum Sepolia testnet**, and the following features have been implemented:
 - Solar NFT Registration: Solar farm owners can register their solar farms as NFTs and assign fractional ownership shares.
 - Ownership Transfer: Users can transfer their fractional ownership of solar NFTs to other users.
 - Fractional Ownership Tracking: Investors can view the solar NFTs they own, along with their fractional share of each solar project.
@@ -89,7 +89,7 @@ To run the DApp locally and test its functionality, follow the steps below:
 
 2. Deploy the Smart Contract
 
-   - Deploy the `SolarRegistration.sol` contract on the Etherlink Testnet or Sepolia Testnet.
+   - Deploy the `SolarRegistration.sol` contract on the Arbitrum Sepolia Testnet.
    - After successful deployment, copy the contract address for the next step.
 
 3. Update Contract Address
