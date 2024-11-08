@@ -96,7 +96,7 @@ To run the DApp locally and test its functionality, follow the steps below:
 
    - Open the `UTILS/Constant.tsx` file in your project directory.
    - Replace the existing contract address with the one from your deployment.
-   - Similarly, update the contract address in the `Components/HOME.tsx` file.
+   - Similarly, update the owner address(put your address) in the `Components/HOME.tsx` file.
 
 4. Install Dependencies
 
