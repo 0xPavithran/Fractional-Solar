@@ -69,10 +69,10 @@ The core functionality of the Fractional Solar DApp is powered by the `SolarRegi
 
 ## Live Demo
 
-Watch the [live demo on Vimeo](https://vimeo.com/1021342143#t=0).
+Watch the [live demo on Vimeo](https://vimeo.com/1027841264?share=copy).
 
 
-Watch the [live demo on YouTube](https://youtu.be/qRMcwQ4q_Es).
+Watch the [live demo on YouTube](https://www.youtube.com/watch?v=_QhQEUSrPlM).
 
 
 
