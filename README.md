@@ -84,7 +84,7 @@ To run the DApp locally and test its functionality, follow the steps below:
    
    Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/0xPavithran/Fractional-Solar/
    ```
 
 2. Deploy the Smart Contract
